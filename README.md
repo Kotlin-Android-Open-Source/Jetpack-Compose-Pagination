@@ -1,5 +1,8 @@
 # Jetpack-Compose-Pagination
-Jetpack-Compose-Pagination. List pagination with Jetpack Compose
+- Jetpack Compose Pagination.
+- List pagination with Jetpack Compose
+- LazyColumn load more.
+- LazyColumn pagination.
 
 | Loading first page | First page | Loading next page |
 | --------------- | ---------------- | ------------ |
